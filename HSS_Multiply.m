@@ -12,7 +12,7 @@ function [b] = HSS_Multiply(hss,x)
 %
 % Author: Kristen Lessel, klessel@engineering.ucsb.edu
 %
-% Copyright (C) 2015 Kristen Lessel, (klessel@engineering.ucsb.edu)
+% Copyright (C) 2013 Kristen Lessel, (klessel@engineering.ucsb.edu)
 %
 % This program is free software: you can redistribute it and/or modify
 % it under the terms of the GNU General Public License as published by
